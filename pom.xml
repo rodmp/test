@@ -9,7 +9,7 @@
 		<version>2.7.0</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.bankaya</groupId>
+	<groupId>com.demo</groupId>
 	<artifactId>pokeapi-soap</artifactId>
 	<version>1.0.0</version>
 	<name>demo</name>
